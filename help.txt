@@ -1,0 +1,7 @@
+Componentdidmount help to execute the React code when the component is already placed in the DOM (Document Object Model).
+
+tO DISPLAY PREVIOUS AND NEXT BUTTON IN OTHER SO WE USE FLEX OPTION
+
+key="" helps to traverse each category section 
+
+In the progress section progress always goes from 0 to 100
